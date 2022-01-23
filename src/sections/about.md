@@ -1,6 +1,8 @@
 ---
-title: AWE.SOME Heading
+title: About
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+We are a community of educators and researchers devoted to developing unique learning experiences for students and professionals coming from computer/data science and law to build their Responsible AI competencies.
+<br/>
+After successfully teaching the course in multiple academic institutes around the world, we share our materials and are eager to support others in using them to teach similar principles.

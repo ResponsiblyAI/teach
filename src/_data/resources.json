@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Read out paper",
+    "icon": "icon1.svg",
+    "content": "Published recently in the Communication of the ACM.",
+    "url": "https://cacm.acm.org/"
+  },
+  {
+    "title": "Delve into the current edition of the course",
+    "icon": "icon2.svg",
+    "content": "Taught at Spring 2022 at Boston Univerisity, Tel Aviv University, Technion and Bocconi University.",
+    "url": "https://go.responsibly.ai/tradeoff-activity/"
+  },
+  {
+    "title": "Explore first activity",
+    "icon": "icon2.svg",
+    "content": "The activity allows students to balance human values and trade-off technical constraints.",
+    "url": "https://go.responsibly.ai/tradeoff-activity/"
+  },
+  {
+    "title": "Get access",
+    "icon": "icon3.svg",
+    "content": "Get access to the rest of the materials and receive future updates. something about license"
+  },
+  {
+    "title": "Join us for a workshop",
+    "icon": "icon4.svg",
+    "content": "Join us for the workshop on Teaching Responsible AI on May 16th 2022 in Tel Aviv University,.",
+    "url": "https://idsi.net.technion.ac.il/teaching-learning-responsible-ai/"
+  }
+]

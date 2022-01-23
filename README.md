@@ -39,7 +39,7 @@ Page content is stored in
   - `imprint.md`
   - `privacy.md`
 - `./src/sections/`
-- `./src/_data/features.json`
+- `./src/_data/resources.json`
 
 **Change Templates/Layout:**
 
