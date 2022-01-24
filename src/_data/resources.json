@@ -9,7 +9,7 @@
     "title": "Delve into the current edition of the course",
     "icon": "icon2.svg",
     "content": "Taught at Spring 2022 at Boston Univerisity, Tel Aviv University, Technion and Bocconi University.",
-    "url": "https://go.responsibly.ai/tradeoff-activity/"
+    "url": "https://learn.responsibly.ai/"
   },
   {
     "title": "Explore first activity",
@@ -20,7 +20,8 @@
   {
     "title": "Get access",
     "icon": "icon3.svg",
-    "content": "Get access to the rest of the materials and receive future updates. something about license"
+    "content": "Get access to the rest of the materials and receive future updates. something about license",
+    "link": "https://forms.gle/58XRZ3GbT9z66HRJ6"
   },
   {
     "title": "Join us for a workshop",
