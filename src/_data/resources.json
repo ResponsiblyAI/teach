@@ -1,32 +1,32 @@
 [
   {
-    "title": "Read out paper",
-    "icon": "icon1.svg",
-    "content": "Published recently in the Communication of the ACM.",
-    "url": "https://cacm.acm.org/"
+    "title": "Read our paper",
+    "icon": "tabler-icon-notes.svg",
+    "content": "Recently published in the Communication of the ACM.",
+    "url": "https://cacm.acm.org/magazines/2022/2/258224-data-science-meets-law/fulltext/"
   },
   {
     "title": "Delve into the current edition of the course",
-    "icon": "icon2.svg",
-    "content": "Taught at Spring 2022 at Boston Univerisity, Tel Aviv University, Technion and Bocconi University.",
+    "icon": "tabler-icon-school.svg",
+    "content": "Will be taugt in Spring 2022 at Boston University, Tel Aviv University, Technion and Bocconi University.",
     "url": "https://learn.responsibly.ai/"
   },
   {
-    "title": "Explore first activity",
-    "icon": "icon2.svg",
-    "content": "The activity allows students to balance human values and trade-off technical constraints.",
+    "title": "Explore one of our activities",
+    "icon": "tabler-icon-directions.svg",
+    "content": "This is a sneak peek to our materials. The activity allows students to balance human values and trade-off technical constraints.",
     "url": "https://go.responsibly.ai/tradeoff-activity/"
   },
   {
     "title": "Get access",
-    "icon": "icon3.svg",
-    "content": "Get access to the rest of the materials and receive future updates. something about license",
-    "link": "https://forms.gle/58XRZ3GbT9z66HRJ6"
+    "icon": "tabler-icon-rocket.svg",
+    "content": "Fill out this form to view the rest of the materials and receive future updates.",
+    "url": "https://forms.gle/9wigte331VKgzSop6"
   },
   {
-    "title": "Join us for a workshop",
-    "icon": "icon4.svg",
-    "content": "Join us for the workshop on Teaching Responsible AI on May 16th 2022 in Tel Aviv University,.",
+    "title": "Join our workshop",
+    "icon": "tabler-icon-friends.svg",
+    "content": "Participate and present at our workshop on Teaching Responsible AI on May 16th 2022 in Tel Aviv University.",
     "url": "https://idsi.net.technion.ac.il/teaching-learning-responsible-ai/"
   }
 ]
