@@ -13,18 +13,17 @@
     "years": "2020"
   },
   {
-    "name": "Shir Lissak",
-    "affiliation": "Technion (Data Science)",
-    "role": "Teaching Fellow",
-    "years": "2021-2022",
-    "url": "https://www.linkedin.com/in/shir-lissak-012174166/"
-  },
-  {
     "name": "Hofit Wasserman Rozen",
     "affiliation": "Tel Aviv University (Law)",
     "role": "Teaching Fellow",
     "years": "2021-2022",
-    "url": "https://uottawa.academia.edu/KarniChagalFeferkorn"
+  },
+  {
+    "name": "Karni Chagal-Feferkorn",
+    "affiliation": "University of Ottawa (Data Law)",
+    "role": "Instructor",
+    "years": "2020-2022",
+    "url": "https://techlaw.uottawa.ca/aisociety/people/chagal-feferkorn-karni/"
   },
   {
     "name": "Nitay Calderon",
