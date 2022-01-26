@@ -1,35 +1,40 @@
 {% for item in collections.sections %}
   {% if item.data.type === 'contributors' %}
-    <div id="contributors" class="w-full min-h-screen flex flex-col justify-center items-center py-12">
+    <div id="contributors" class="w-full min-h-screen flex flex-col justify-center items-center bg-gray-800">
       <div class="self-center text-center w-full sm:w-2/3 xl:w-1/2 px-4 sm:px:0">
-        <h2 class="font-bold tracking-wider text-gray-800 text-4xl mb-4">{{ item.data.title }}</h2>
-        <div class="font-light text-black text-xl">
+        <h2 class="font-bold tracking-wider text-gray-200 text-4xl mb-4">{{ item.data.title }}</h2>
+        <div class="font-light text-gray-400 text-xl">
           {{ item.templateContent | safe }}
         </div>
       </div>
-
       <div class="self-center w-full xl:w-4/5 flex flex-col sm:flex-row flex-wrap px-4 xl:px:0">
         {% for item in contributors %}
           <div class="w-full sm:w-1/2 flex flex-row flex-no-wrap px-4 sm:px-8 py-6 sm:py-4">
-
             <div class="w-2/3 xl:w-3/4">
-            <a href="{{ item.url }}" target="_blank"><span class="tracking-wide font-bold text-xl mb-2"> {{ item.name}}</span></a>
+              <a href="{{ item.url }}" target="_blank">
+                <span class="tracking-wide font-bold text-gray-200 text-xl mb-2">
+                  {{ item.name }}
+                </span>
+              </a>
               <div>
-              {{ item.affiliation }}
+                <span class="tracking-wide text-gray-200 text-l mb-2">
+                  {{ item.affiliation }}
+                </span>
               </div>
               <div>
-              {{ item.role }}, {{ item.years }}
+                <span class="tracking-wide text-gray-200 text-l mb-2">
+                  {{ item.role }}, {{ item.years }}
+                </span>
               </div>
             </div>
-
           </div>
         {% endfor %}
+        <div class="flex flex-row w-full justify-center py-12">
+          <a
+            class="px-10 py-2 text-gray-200 bg-purple-600 rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red"
+            href="#resources">Join Us!</a>
+        </div>
       </div>
-
-  <div class="flex flex-row w-full justify-center pb-12">
-    <a class="px-10 py-2 text-gray-200 bg-purple-600 rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red"
-    href="https://forms.gle/9wigte331VKgzSop6">Join Us!</a>
-  </div>
     </div>
   {% endif %}
 {% endfor %}
