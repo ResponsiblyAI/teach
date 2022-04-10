@@ -6,11 +6,12 @@
         <div class="font-light text-black text-xl">
           {{ item.templateContent | safe }}
         </div>
-        <img class="my-12 max-w-full mx-auto" src="https://learn.responsibly.ai/assets/img/logo.png" alt="logo">
+        <img class="my-12 max-w-full mx-auto" src="https://learn.responsibly.ai/assets/img/logo.png" alt="logo"></div>
+        <div class="flex flex-row w-full justify-center">
+          <a
+            class="px-10 py-2 text-gray-200 bg-purple-600 rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red"
+            href="#resources">Learn More</a>
+        </div>
       </div>
-      <div class="flex flex-row w-full justify-center">
-        <a class="px-10 py-2 text-gray-200 bg-purple-600 rounded-full shadow-md text-lg hover:bg-gray-800 hover:border-red" href="#resources">Learn More</a>
-      </div>
-    </div>
-  {% endif %}
-{% endfor %}
+    {% endif %}
+  {% endfor %}
