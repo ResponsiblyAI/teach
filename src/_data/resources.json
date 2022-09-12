@@ -28,5 +28,12 @@
     "icon": "tabler-icon-friends.svg",
     "content": "See the program of the workshop on Teaching Responsible AI which took place on May 16th 2022 in Tel Aviv University.",
     "url": "https://idsi.net.technion.ac.il/teaching-learning-responsible-ai/"
+  },
+  
+  {
+    "title": "Contact us",
+    "icon": "tabler-icon-mail.svg",
+    "content": "Reach out to us at contact@responsibly.ai",
+    "url": "mailto:contact@responsibly.ai"
   }
 ]
