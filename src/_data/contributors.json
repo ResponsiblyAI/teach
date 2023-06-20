@@ -3,82 +3,70 @@
     "name": "Avigdor Gal",
     "affiliation": "Technion (Data Science)",
     "role": "Instructor",
-    "years": "2020-2022",
     "url": "https://agp.iem.technion.ac.il/avigal/"
   },
   {
     "name": "Ari Karchmer",
     "affiliation": "Boston University (Computer Science)",
     "role": "Teaching Fellow",
-    "years": "2022",
     "url": "http://arikarchmer.com/"
   },
   {
     "name": "Guy Berkenstadt",
     "affiliation": "Technion (Data Science)",
-    "role": "Teaching Fellow",
-    "years": "2020"
+    "role": "Teaching Fellow"
   },
   {
     "name": "Hofit Wasserman Rozen",
     "affiliation": "Tel Aviv University (Law)",
     "role": "Teaching Fellow",
-    "years": "2021-2022",
     "url": "https://www.linkedin.com/in/hofit-wasserman-rozen-843997b9/"
   },
   {
     "name": "Karni Chagal-Feferkorn",
     "affiliation": "University of Ottawa (Law)",
     "role": "Instructor",
-    "years": "2020-2022",
     "url": "https://techlaw.uottawa.ca/aisociety/people/chagal-feferkorn-karni/"
   },
   {
     "name": "Margot Hanley",
     "affiliation": "Cornell Tech (Information Science)",
-    "role": "Teaching Fellow",
-    "years": "2021"
+    "role": "Teaching Fellow"
   },
    {
     "name": "Maria Lillà Montagnani",
     "affiliation": "Bocconi University (Law)",
     "role": "Instructor",
-    "years": "2022",
     "url": "https://didattica.unibocconi.eu/docenti/cv.php?rif=50237"
   },
   {
     "name": "Nitay Calderon",
     "affiliation": "Technion (Data Science)",
     "role": "Teaching Fellow",
-    "years": "2021",
     "url": "https://www.linkedin.com/in/shir-lissak-012174166/"
   },
   {
     "name": "Niva Elkin-Koren",
     "affiliation": "Tel Aviv University (Law)",
     "role": "Instructor",
-    "years": "2020-2022",
     "url": "https://en-law.tau.ac.il/profile/elkiniva"
   },
   {
     "name": "Shir Lissak",
     "affiliation": "Technion (Data Science)",
     "role": "Teaching Fellow",
-    "years": "2021-2022",
     "url": "https://www.linkedin.com/in/shir-lissak-012174166/"
   },
   {
     "name": "Sivan Shachar",
     "affiliation": "Tel Aviv University (Law)",
     "role": "Teaching Fellow",
-    "years": "2021-2022",
     "url": "https://www.linkedin.com/in/sivan-shachar-1389801ba/"
   },
   {
     "name": "Shlomi Hod",
     "affiliation": "Boston University (Computer Science)",
     "role": "Instructor",
-    "years": "2020-2022",
     "url": "https://shlomi.hod.xyz/"
   }
 ]
